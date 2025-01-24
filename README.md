@@ -29,7 +29,7 @@ XY = (Xl*2^(n/2) + Xr)(Yl*2^(n/2) + Yr)
 
 2. Add Verilog Source Files
   In the Vivado Flow Navigator, under Project Manager, click "Add Sources".
-  Select "Add Sources", select "Add or Create Design Sources", and add - [karatsuba_mult_8.v](karatsuba_mult_8.v) from the repository root.
+  Select "Add Sources", select "Add or Create Design Sources", and add - [karatsuba_mult.v](karatsuba_mult.v) from the repository root.
   Click OK, then Finish, and the file will be added to the project.
 
 3. Add Testbench Files
